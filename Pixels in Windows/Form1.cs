@@ -15,7 +15,9 @@ namespace Pixels_in_Windows
         public Form1()
         {
             InitializeComponent();
+            this.BackColor = Color.PowderBlue;
         }
+        
 
         private void Form1_Load(object sender, EventArgs e)
         {
